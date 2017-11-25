@@ -1,0 +1,71 @@
+.name {
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 5px;
+    padding-left : 20px;
+    margin-bottom: -10px;
+    color: rgb(35, 119, 145);
+}
+
+.subHeader {
+    font-family: serif;
+    font-style: italic;
+    font-size: 15px;
+    padding-left: 22px;
+    color: rgb(rgb(0, 0, 0), rgb(0, 0, 0), rgb(66, 66, 66))
+}
+
+.customHr {
+    width:  97%;
+}
+
+.contentHeader {
+    font-family: Serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20;
+    padding-left: 20;
+    margin-bottom: -5px;
+    color: rgb(rgb(0, 0, 0), rgb(0, 0, 0), rgb(66, 66, 66)))
+}
+
+.contentBody {
+    font-family: Sans-Serif;
+    font-size: 16;
+    padding-left: 20;
+    padding-bottom: 7px;
+    color: black;
+}
+
+.contentBlock {
+    border-color: black;
+    border-width: 3px;
+}
+
+.experience {
+    font-family: sans-serif;
+    margin-bottom: -9px;
+    font-size: 16px;
+    color: rgb(74, 83, 90);
+    padding-left: 35px;
+    padding-bottom: 7px;
+}
+
+#space {
+    padding-top: 1px;
+}
+
+ul {
+    padding-right: 10px;
+    columns: 3;
+}
+
+li {
+    color: rgb(74, 83, 90))
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+#lastParagraph {
+    margin-bottom: 15px;
+}
